@@ -46,4 +46,4 @@ https://www.youtube.com/watch?v=Uw5RlFq0nSE
 
 https://teachablemachine.withgoogle.com/
 
-![](teachable-machine.png)
+![](teachable-machine.png)# openai
